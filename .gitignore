@@ -1,0 +1,22 @@
+# Dependencias
+**/node_modules/
+
+# Secretos / entorno
+**/.env
+.env
+.env.*
+!.env.example
+
+# Logs y sistema
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Postman local
+.postman/
+postman/
